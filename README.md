@@ -88,18 +88,14 @@ The goal is to identify where users drop off in the purchase funnel, diagnose th
 
 ---
 
-## AI Assistance
+## AI Assistance Disclosure
 
-AI tools were used selectively to enhance development and analysis workflows.
+This project used AI tools in a supporting capacity:
 
-- :contentReference[oaicite:2]{index=2} — supported ETL pipeline structuring and data validation logic  
-- :contentReference[oaicite:3]{index=3} — used to synthesize findings, revisit key insights, and explore analytical narratives
+- **Claude AI (Anthropic)** — assisted with ETL pipeline architecture, data validation logic, and documentation structure.
+- **NotebookLM (Google)** — used to synthesise findings, revisit key insights, and explore analytical narratives.
 
-All core analysis, SQL logic, and business recommendations were independently developed.
+All core analysis, SQL queries, funnel logic, business interpretation, and recommendations were independently developed and validated.
 
 ---
 
-## Author
-
-**Payel Saha**
-Data Analyst 
